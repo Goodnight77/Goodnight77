@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/mohammed-arbi-nsibi-%F0%9F%87%B5%F0%9F%87%B8%F0%9F%8D%89-584a43241/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="[https://www.facebook.com/wissemkarous](https://www.facebook.com/arbi.med.144/)" target="_blank">
+<a href="[https://www.facebook.com/](https://www.facebook.com/arbi.med.144/)" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/mohammedarbi" target="_blank">
@@ -51,8 +51,8 @@
 <br/>  
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wissemkarous&theme=onedark)](https://github.com/wissemkarous/github-profile-trophy) <br/>  
-[![Arbi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Goodnight77&theme=dracula)](https://github.com/Goodnight77/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Goodnight77&theme=onedark)]() <br/>  
+[![Arbi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Goodnight77&theme=dracula)]()
 <br/>  
 
 [![committers.top badge](https://user-badge.committers.top/tunisia/Goodnight77.svg)](https://user-badge.committers.top/tunisia/Goodnight77)
