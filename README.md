@@ -31,7 +31,7 @@
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
 <a href="https://zindi.africa/users/Goodnight" target="_blank">
-<img src=[https://img.shields.io/badge/zindi-%2344BAE8.svg?&style=for-the-badge&logo=Zindi&logoColor=white] alt=zindi style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/zindi-%2344BAE8.svg?&style=for-the-badge&logo=Zindi&logoColor=white alt=zindi style="margin-bottom: 5px;" />
 </a>
 <a href="https://huggingface.co/Goodnight7" target="_blank">
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTml8AOvfBEvBwCmb1mPQWNfHk-7KliyXBeNr_AaTPMCc-7h0jLTl9YVUbYHP2TPjQqfg&usqp=CAU height="28" alt=huggingface style="margin-bottom: 5px;" />
