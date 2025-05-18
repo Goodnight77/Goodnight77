@@ -21,7 +21,7 @@
 <a href="https://github.com/Goodnight77" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/mohammed-arbi-nsibi-%F0%9F%87%B5%F0%9F%87%B8%F0%9F%8D%89-584a43241/" target="_blank">
+<a href="https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/arbi.med.144/" target="_blank">
