@@ -3,10 +3,11 @@
 </div>
 
 
-  <h3>ICT Engineering Student | Knowledge Seeker | AI Enthusiast | FROM TUNISIA 🇹🇳 </h3>
-  
-  <img src="https://komarev.com/ghpvc/?username=Goodnight77&&style=flat-square" align="center" />
-  
+<div align="center">
+  <h3>ICT Engineering Student | Knowledge Seeker | AI Enthusiast | FROM TUNISIA 🇹🇳</h3>
+  <img src="https://komarev.com/ghpvc/?username=Goodnight77&&style=flat-square" />
+</div>
+
   <br/>
   
   <!-- Profile divider -->
