@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Hi+%2C+I'm+Mohammed+Arbi+Nsibi" alt="Typing SVG" />
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+%2C+I'm+Mohammed+Arbi+Nsibi" alt="Typing SVG" />
+</div>
+
   <h3>ICT Engineering Student | Knowledge Seeker | AI Enthusiast | FROM TUNISIA 🇹🇳 </h3>
   
   <img src="https://komarev.com/ghpvc/?username=Goodnight77&&style=flat-square" align="center" />
