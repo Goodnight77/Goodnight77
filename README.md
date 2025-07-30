@@ -34,6 +34,9 @@
   <a href="https://huggingface.co/Goodnight7" target="_blank">
     <img src=https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?&style=for-the-badge&logo=huggingface&logoColor=black alt=huggingface />
   </a>
+  <a href="https://medium.com/@mohammedarbinsibi" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
+</a>
 </div>  
 
 <!-- Skills divider -->
