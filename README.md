@@ -16,12 +16,12 @@
 
 <h2 align="center">Connect with me</h2>
 <div align="center">
-  <a href="https://github.com/Goodnight77" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
-  </a>
   <a href="https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
   </a>
+  <a href="https://medium.com/@mohammedarbinsibi" target="_blank">
+<img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
+</a>
   <a href="https://www.facebook.com/arbi.med.144/" target="_blank">
     <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook />
   </a>
@@ -34,9 +34,6 @@
   <a href="https://huggingface.co/Goodnight7" target="_blank">
     <img src=https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?&style=for-the-badge&logo=huggingface&logoColor=black alt=huggingface />
   </a>
-  <a href="https://medium.com/@mohammedarbinsibi" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
-</a>
 </div>  
 
 <!-- Skills divider -->
