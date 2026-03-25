@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <h3>ICT Engineering Student | Knowledge Seeker | AI Enthusiast | FROM TUNISIA 🇹🇳</h3>
+  <h3>ML Engineer | Knowledge Seeker | Qdrant star | Google DSC lead '23 | FROM TUNISIA 🇹🇳</h3>
   <img src="https://komarev.com/ghpvc/?username=Goodnight77&&style=flat-square" />
 </div>
 
@@ -16,15 +16,15 @@
 
 <h2 align="center">Connect with me</h2>
 <div align="center">
+  <a href="http://mohamedarbi.xyz/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" />
+  </a>
   <a href="https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
   </a>
   <a href="https://medium.com/@mohammedarbinsibi" target="_blank">
 <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
 </a>
-  <a href="https://www.facebook.com/arbi.med.144/" target="_blank">
-    <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook />
-  </a>
   <a href="https://www.kaggle.com/mohammedarbi" target="_blank">
     <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle />
   </a>
@@ -71,11 +71,6 @@
 <h2 align="center">GitHub Trophies</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Goodnight77&theme=radical&no-frame=true&column=7" alt="Trophies"/>
-</div>
-
-<h2 align="center">Contribution Graph</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Goodnight77&theme=tokyo-night&hide_border=true" alt="Arbi's github activity graph"/>
 </div>
 
 <!-- Footer divider -->
